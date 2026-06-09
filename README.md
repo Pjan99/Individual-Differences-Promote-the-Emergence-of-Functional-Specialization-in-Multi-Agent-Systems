@@ -36,7 +36,7 @@ multiple independent training replications across combinations of:
 * Random seed:
   * Multiple independent replications per condition.
 
-train.py trains a single replication at a time. To reproduce
+`train.py` trains a single replication at a time. To reproduce
 the full dataset reported in the paper, the script must be executed
 repeatedly with different combinations of these parameters.
 
